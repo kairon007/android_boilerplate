@@ -5,6 +5,7 @@ import android.util.Log;
 import cc.cloudist.app.android.boilerplate.BuildConfig;
 
 public class LogUtils {
+
     private static final String LOG_PREFIX = "cloudist_";
     private static final int LOG_PREFIX_LENGTH = LOG_PREFIX.length();
     private static final int MAX_LOG_TAG_LENGTH = 23;
